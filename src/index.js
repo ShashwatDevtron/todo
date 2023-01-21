@@ -13,9 +13,7 @@ class AddTask extends React.Component{
     }
 } 
 class TaskList extends React.Component{
-    constructor(props){
-        super(props);
-    }
+   
     render(){
         let list =[];
 
